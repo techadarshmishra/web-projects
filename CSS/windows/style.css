@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clr {
+    clear: both;
+}
+
+.new {
+    float: left;
+    margin-left: 1%;
+}
+
+.bg1 {
+    background-color: red;
+}
+
+.bg2 {
+    background-color: blue;
+}
+
+.bg3 {
+    background-color: green;
+}
+
+.bg4 {
+    background-color: grey;
+}
+
+.bg5 {
+    background-color: orange;
+}
